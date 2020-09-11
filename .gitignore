@@ -2,3 +2,6 @@
 *
 !*.*
 !*/
+
+# object files are also binaries; ignore those too
+*.o
